@@ -1,5 +1,7 @@
 # LOA
 
+[![Updated](https://github.com/splor-mg/loa-dados-2024/actions/workflows/all.yaml/badge.svg)](https://github.com/splor-mg/loa-dados-2024/actions/)
+
 ## Pré-requisitos
 
 Esse projeto utiliza Docker para gerenciamento das dependências. Para fazer _build_  da imagem execute:
