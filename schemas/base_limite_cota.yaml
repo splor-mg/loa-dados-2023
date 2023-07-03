@@ -1,0 +1,31 @@
+fields:
+  - name: Cód. UO
+    type: integer
+  - name: UO
+    type: string
+  - name: Grupo de Despesa
+    type: integer
+  - name: Fonte
+    type: integer
+  - name: IPU
+    type: integer
+  - name: IAG
+    type: integer
+  - name: Valor Limite 2023
+    type: integer
+  - name: Valor Utilizado 2023
+    type: integer
+  - name: Valor Transferido
+    type: integer
+  - name: Valor Limite 2024
+    type: integer
+  - name: Valor Utilizado 2024
+    type: integer
+  - name: Valor Limite 2025
+    type: integer
+  - name: Valor Utilizado 2025
+    type: integer
+  - name: Valor Limite 2026
+    type: integer
+  - name: Valor Utilizado 2026
+    type: integer

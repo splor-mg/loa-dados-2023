@@ -1,0 +1,43 @@
+fields:
+  - name: Código do Órgão
+    type: integer
+  - name: Órgão
+    type: string
+  - name: Código da UO
+    type: integer
+  - name: Unidade Orçamentária
+    type: string
+  - name: Função
+    type: integer
+  - name: Subfunção
+    type: integer
+  - name: Programa
+    type: integer
+  - name: Identificador
+    type: integer
+  - name: Projeto_Atividade
+    type: integer
+  - name: Ação
+    type: integer
+  - name: Subprojeto
+    type: integer
+  - name: Fonte
+    type: integer
+  - name: IAG
+    type: integer
+  - name: Descrição
+    type: string
+  - name: Categoria
+    type: string
+  - name: Código da Natureza
+    type: integer
+  - name: Natureza
+    type: string
+  - name: Valor (R$) 2023
+    type: string
+  - name: Valor (R$) 2024
+    type: string
+  - name: Valor (R$) 2025
+    type: string
+  - name: Valor (R$) 2026
+    type: string

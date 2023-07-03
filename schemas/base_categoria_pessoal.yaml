@@ -1,0 +1,11 @@
+fields:
+  - name: Ano de Exercício
+    type: integer
+  - name: UO
+    type: string
+  - name: Classificação
+    type: string
+  - name: Categoria
+    type: string
+  - name: Quantidade
+    type: integer

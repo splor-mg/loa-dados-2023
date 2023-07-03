@@ -1,0 +1,77 @@
+fields:
+  - name: ANO
+    title: ano
+    type: integer
+  - name: COD_ORGAO
+    title: orgao_cod
+    type: integer
+  - name: ORGAO
+    title: orgao_nome_sigla
+    type: string
+  - name: PODER
+    title: poder_cod
+    type: integer
+  - name: SITUACAO
+    type: integer
+  - name: COD_UO
+    title: uo_cod
+    type: integer
+  - name: UO
+    title: uo_nome_sigla
+    type: string
+  - name: CATEGORIA
+    title: categoria_cod
+    type: integer
+  - name: GRUPO_DESPESA
+    title: grupo_cod
+    type: integer
+  - name: MODALIDADE
+    title: modalidade_cod
+    type: integer
+  - name: ELEMENTO_DESPESA
+    title: elemento_cod
+    type: integer
+  - name: FONTE
+    title: fonte_cod
+    type: integer
+  - name: IPU
+    title: ipu_cod
+    type: integer
+  - name: SEQ_PROGTRAB
+    type: integer
+  - name: FUNCAO
+    title: funcao_cod
+    type: integer
+  - name: SUB_FUNCAO
+    title: subfuncao_cod
+    type: integer
+  - name: PROGRAMA
+    title: programa_cod
+    type: integer
+  - name: IDENT_PROJATIV
+    type: integer
+  - name: PROJ_ATIV
+    type: integer
+  - name: AÇÃO
+    title: acao_cod
+    type: integer
+  - name: SUB_PROJETO
+    type: integer
+  - name: VALOR UO (R$)
+    title: vl_loa_desp_uo
+    type: string
+  - name: VALOR SCPPO (R$)
+    title: vl_loa_desp_scppo
+    type: string
+  - name: VALOR FINAL (R$)
+    title: vl_loa_desp
+    type: string
+  - name: IAG
+    title: iag_cod
+    type: integer
+  - name: NOME_ACAO
+    title: acao_desc
+    type: string
+  - name: NOME_PROGRAMA
+    title: acao_cod
+    type: string

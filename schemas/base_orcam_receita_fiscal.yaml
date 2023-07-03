@@ -1,0 +1,61 @@
+fields:
+  - name: UO_COD
+    title: uo_cod
+    type: integer
+  - name: NOME_UO
+    title: uo_nome
+    type: string
+  - name: SIGLA_UO
+    title: uo_sigla
+    type: string
+  - name: COD_FONTE
+    title: fonte_cod
+    type: integer
+  - name: FONTE
+    title: fonte_desc
+    type: string
+  - name: INTERPRETACAO
+    title: fonte_interp
+    type: string
+  - name: CATEGORIA
+    type: integer
+  - name: ORIGEM
+    type: integer
+  - name: ESPÉCIE
+    type: integer
+  - name: RUBRICA
+    type: integer
+  - name: ALINEA
+    type: integer
+  - name: SUBALINEA
+    type: integer
+  - name: TIPO DE RECEITA
+    type: integer
+  - name: ITEM
+    type: integer
+  - name: SUBITEM
+    type: integer
+  - name: COD_RECEITA
+    title: receita_cod
+    type: integer
+  - name: RECEITA
+    title: receita_desc
+    type: string
+  - name: INTERP_RECEITA
+    type: string
+  - name: VALOR UO (R$)
+    title: vl_loa_rec_uo
+    type: string
+  - name: VALOR SCPPO (R$)
+    title: vl_loa_rec_scppo
+    type: string
+  - name: VALOR FINAL (R$)
+    title: vl_loa_rec
+    type: string
+  - name: ANO
+    title: ano
+    type: integer
+  - name: BASE LEGAL
+    type: string
+  - name: METODOLOGIA DE CÁLCULO E PREMISSAS UTILIZADAS
+    type: string

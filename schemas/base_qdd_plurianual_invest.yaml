@@ -1,0 +1,43 @@
+fields:
+  - name: ANO
+    type: integer
+  - name: COD_ORGAO
+    type: integer
+  - name: DESC_ORGAO
+    type: string
+  - name: COD_UO
+    type: integer
+  - name: DESC_UO
+    type: string
+  - name: FUNCAO
+    type: integer
+  - name: SUBFUNCAO
+    type: integer
+  - name: COD_PROGRAMA
+    type: integer
+  - name: IDENT_PROJATIV
+    type: integer
+  - name: PROJ_ATIV
+    type: integer
+  - name: AÇÃO
+    type: integer
+  - name: SUBPROJETO
+    type: integer
+  - name: CATEGORIA
+    type: integer
+  - name: FONTE
+    type: integer
+  - name: IAG
+    type: integer
+  - name: PROGRAMA
+    type: string
+  - name: ACAO
+    type: string
+  - name: VALOR (R$) 2023
+    type: integer
+  - name: VALOR (R$) 2024
+    type: integer
+  - name: VALOR (R$) 2025
+    type: integer
+  - name: VALOR (R$) 2026
+    type: integer

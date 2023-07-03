@@ -1,0 +1,19 @@
+fields:
+  - name: Cód. UO Repassadora
+    type: integer
+  - name: UO Repassadora
+    type: string
+  - name: Cód. Programa de Trabalho
+    type: string
+  - name: Ação
+    type: string
+  - name: Cód. Natureza de Despesa
+    type: string
+  - name: Elemento Item
+    type: string
+  - name: Valor Repassado (R$)
+    type: integer
+  - name: Cód. UO Beneficiada
+    type: integer
+  - name: UO Beneficiada
+    type: string

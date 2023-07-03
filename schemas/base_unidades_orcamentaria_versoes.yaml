@@ -1,0 +1,13 @@
+fields:
+  - name: UO_COD
+    title: uo_cod
+    type: integer
+  - name: UO_DESC
+    title: uo_nome
+    type: string
+  - name: UO_SIGLA
+    title: uo_sigla
+    type: string
+  - name: MOMENTO_COD
+    title: momento_cod
+    type: integer

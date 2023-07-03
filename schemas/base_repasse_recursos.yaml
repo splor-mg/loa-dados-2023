@@ -1,0 +1,19 @@
+fields:
+  - name: Cód. UO Financiadora
+    type: integer
+  - name: UO Financiadora
+    type: string
+  - name: Cód. UO Beneficiada
+    type: integer
+  - name: UO Beneficiada
+    type: string
+  - name: Grupo de Despesa
+    type: integer
+  - name: Fonte
+    type: integer
+  - name: IPU
+    type: integer
+  - name: IAG
+    type: integer
+  - name: Valor Transferido (R$)
+    type: string

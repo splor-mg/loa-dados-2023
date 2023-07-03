@@ -1,0 +1,49 @@
+fields:
+  - name: UO
+    type: integer
+  - name: FUNCAO
+    type: integer
+  - name: SUBFUNCAO
+    type: integer
+  - name: PROGRAMA
+    type: integer
+  - name: ACAO
+    type: integer
+  - name: SUBPROJETO
+    type: integer
+  - name: IAG
+    type: integer
+  - name: NUMERO DA OBRA SISOR
+    type: integer
+  - name: NUMERO DA OBRA SIAD
+    type: integer
+  - name: DESCRICAO DA OBRA
+    type: string
+  - name: STATUS DA OBRA
+    type: string
+  - name: UNIDADE DE MEDIDA DA OBRA
+    type: string
+  - name: QUANTIDADE
+    type: integer
+  - name: ALTERAR UNIDADE DE MEDIDA DA OBRA
+    type: string
+  - name: REGIÃO GEOGRÁFICA INTERMEDIÁRIA
+    type: string
+  - name: MUNICÍPIO
+    type: string
+  - name: VALOR TESOURO 2023 (R$)
+    type: string
+  - name: VALOR OUTROS 2023 (R$)
+    type: string
+  - name: VALOR TESOURO 2024 (R$)
+    type: string
+  - name: VALOR OUTROS 2024 (R$)
+    type: string
+  - name: VALOR TESOURO 2025 (R$)
+    type: string
+  - name: VALOR OUTROS 2025 (R$)
+    type: string
+  - name: VALOR TESOURO 2026 (R$)
+    type: string
+  - name: VALOR OUTROS 2026 (R$)
+    type: string

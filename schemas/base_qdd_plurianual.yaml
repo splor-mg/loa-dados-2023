@@ -1,0 +1,68 @@
+fields:
+  - name: ANO
+    title: ano
+    type: integer
+  - name: COD_ORGAO
+    title: orgao_cod
+    type: integer
+  - name: DESC_ORGAO
+    title: orgao_nome_sigla
+    type: string
+  - name: COD_UO
+    title: uo_cod
+    type: integer
+  - name: DESC_UO
+    title: uo_nome_sigla
+    type: string
+  - name: FUNCAO
+    title: funcao_cod
+    type: integer
+  - name: SUBFUNCAO
+    title: subfuncao_cod
+    type: integer
+  - name: COD_PROGRAMA
+    title: programa_cod
+    type: integer
+  - name: IDENT_PROJATIV
+    type: integer
+  - name: PROJ_ATIV
+    type: integer
+  - name: AÇÃO
+    title: acao_cod
+    type: integer
+  - name: SUBPROJETO
+    title: subprojeto_cod
+    type: integer
+  - name: CATEGORIA
+    title: categoria_cod
+    type: integer
+  - name: GRUPO_DESPESA
+    title: grupo_cod
+    type: integer
+  - name: FONTE
+    title: fonte_cod
+    type: integer
+  - name: IPU
+    title: ipu_cod
+    type: integer
+  - name: IAG
+    title: iag_cod
+    type: integer
+  - name: PROGRAMA
+    title: programa_desc
+    type: string
+  - name: ACAO
+    title: acao_desc
+    type: string
+  - name: VALOR (R$) 2023
+    title: vl_loa_desp_ano0
+    type: number
+  - name: VALOR (R$) 2024
+    title: vl_loa_desp_ano1    
+    type: number
+  - name: VALOR (R$) 2025
+    title: vl_loa_desp_ano2
+    type: number
+  - name: VALOR (R$) 2026
+    title: vl_loa_desp_ano3
+    type: number

@@ -1,0 +1,9 @@
+fields:
+  - name: Cód. UO Beneficiada
+    type: integer
+  - name: UO Beneficiada
+    type: string
+  - name: Valor Recebido (R$)
+    type: integer
+  - name: Valor Detalhado (R$)
+    type: integer
