@@ -6,6 +6,7 @@ import shutil
 logger = logging.getLogger(__name__)
 
 def extract_resource(resource_name: str, descriptor: str = 'datapackage.yaml'):
+    logger.info(f'Extracting resource {resource_name}')
     package = Package(descriptor)
     resource = package.get_resource(resource_name)
     res = requests.post(resource.custom['api_url'],
