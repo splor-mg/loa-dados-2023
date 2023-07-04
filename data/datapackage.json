@@ -325,8 +325,8 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:241096516eb0bacc3531dc7ebeb92e4b727b2eb6afe9e49763b1f3b50dd47538",
-      "bytes": 11576,
+      "hash": "sha256:e21f4dd016f573d09007f65d495fa3513452b3ecc3a9fc979d2b0054c6b86c14",
+      "bytes": 11319,
       "fields": 21,
       "rows": 37,
       "schema": {
@@ -401,19 +401,19 @@
           },
           {
             "name": "Valor (R$) 2023",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Valor (R$) 2024",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Valor (R$) 2025",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Valor (R$) 2026",
-            "type": "string"
+            "type": "integer"
           }
         ]
       }
@@ -427,8 +427,8 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:50e19527570bc3ee9062230e6ffb218b13a65cbc319662da4c2a9ae7df09c56f",
-      "bytes": 91131,
+      "hash": "sha256:66d909adaf11c83a61a9deed58df03f69acf1a0d0d02afd9776e136cf4e0ab11",
+      "bytes": 87283,
       "fields": 24,
       "rows": 304,
       "schema": {
@@ -499,35 +499,35 @@
           },
           {
             "name": "VALOR TESOURO 2023 (R$)",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "VALOR OUTROS 2023 (R$)",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "VALOR TESOURO 2024 (R$)",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "VALOR OUTROS 2024 (R$)",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "VALOR TESOURO 2025 (R$)",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "VALOR OUTROS 2025 (R$)",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "VALOR TESOURO 2026 (R$)",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "VALOR OUTROS 2026 (R$)",
-            "type": "string"
+            "type": "number"
           }
         ]
       }
@@ -541,8 +541,8 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:96583280677474af31a05c4a702184044e62ec653fedeba9a5eb15bbbfb89a0e",
-      "bytes": 1748329,
+      "hash": "sha256:3b81395da72721202799e337545477d9d89fd59890b0d258c345e7cbf6659940",
+      "bytes": 1691931,
       "fields": 27,
       "rows": 5641,
       "schema": {
@@ -633,15 +633,15 @@
           },
           {
             "name": "vl_loa_desp_uo",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "vl_loa_desp_scppo",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "vl_loa_desp",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "iag_cod",
@@ -667,8 +667,8 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:b553826633978be8c108dfd4f33c526d4f8f87f1800ac28bd1489ca1e2d8102a",
-      "bytes": 15755,
+      "hash": "sha256:cefdcd2b31b9a1851d57a035ba601160289cbc1f6fcfe447f2932277300ffcfa",
+      "bytes": 15615,
       "fields": 23,
       "rows": 37,
       "schema": {
@@ -727,7 +727,7 @@
           },
           {
             "name": "VALOR (R$)",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "IAG",
@@ -777,8 +777,8 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:72b7b1e5f87574d43ab12c48394c5d87af4e942e9abad44a9e0a624fe122da8b",
-      "bytes": 455118,
+      "hash": "sha256:ee8ad232abdf87fe465fc07d07f3cd165097c730ff544e29aef6a5ef02366cd6",
+      "bytes": 444621,
       "fields": 24,
       "rows": 1011,
       "schema": {
@@ -857,15 +857,15 @@
           },
           {
             "name": "vl_loa_rec_uo",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "vl_loa_rec_scppo",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "vl_loa_rec",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "ano",
@@ -891,8 +891,8 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:7b819b2203f244cbaf15dc9e201d8675f001d37da1858b04b403136a5374bd3a",
-      "bytes": 3170,
+      "hash": "sha256:0fca549a574391eb1e806d2264e73b85262aa278b116d675cb91c957b28d1d09",
+      "bytes": 2933,
       "fields": 14,
       "rows": 21,
       "schema": {
@@ -939,15 +939,15 @@
           },
           {
             "name": "VALOR UO (R$)",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "VALOR SCPPO (R$)",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "VALOR FINAL (R$)",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "ANO",
@@ -965,8 +965,8 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:ce4ae298abf1592eb3364adb99480ed74281769de93affa40881c9f259af15c8",
-      "bytes": 214066,
+      "hash": "sha256:db25bfed0767ad102deec44912e902b63a1303c7979c97eaf12b7cde3d40886f",
+      "bytes": 212715,
       "fields": 10,
       "rows": 779,
       "schema": {
@@ -1009,7 +1009,7 @@
           },
           {
             "name": "Valor Global (R$)",
-            "type": "string"
+            "type": "integer"
           }
         ]
       }
@@ -1061,8 +1061,8 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:a3da990baeef75ffd1831688a475409fb5b05a92c46aec567a956706db42ebaf",
-      "bytes": 6334,
+      "hash": "sha256:9e57f3414b3a0f4155837785c5dbcc85e30219235ad054dfc7311d4f90f90b84",
+      "bytes": 6169,
       "fields": 9,
       "rows": 44,
       "schema": {
@@ -1101,7 +1101,7 @@
           },
           {
             "name": "Valor Transferido (R$)",
-            "type": "string"
+            "type": "number"
           }
         ]
       }
@@ -1307,5 +1307,5 @@
       }
     }
   ],
-  "updated_at": "2023-07-04T15:37:14"
+  "updated_at": "2023-07-04T16:54:36"
 }
