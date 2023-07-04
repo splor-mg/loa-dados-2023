@@ -12,7 +12,9 @@ fields:
   - name: Elemento Item
     type: string
   - name: Valor Repassado (R$)
-    type: integer
+    type: number
+    groupChar: '.'
+    decimalChar: ','    
   - name: Cód. UO Beneficiada
     type: integer
   - name: UO Beneficiada

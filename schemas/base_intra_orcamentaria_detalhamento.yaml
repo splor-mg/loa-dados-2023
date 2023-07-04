@@ -4,6 +4,10 @@ fields:
   - name: UO Beneficiada
     type: string
   - name: Valor Recebido (R$)
-    type: integer
+    type: number
+    groupChar: '.'
+    decimalChar: ','
   - name: Valor Detalhado (R$)
-    type: integer
+    type: number
+    groupChar: '.'
+    decimalChar: ','    

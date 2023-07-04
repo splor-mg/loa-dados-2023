@@ -26,7 +26,9 @@ fields:
   - name: AÇÃO
     type: integer
   - name: VALOR (R$)
-    type: string
+    type: number
+    groupChar: '.'
+    decimalChar: ','
   - name: IAG
     type: integer
   - name: DESC_PROJETO_ATIV

@@ -18,4 +18,6 @@ fields:
   - name: Ano de Exercício
     type: integer
   - name: Valor Global (R$)
-    type: string
+    type: number
+    groupChar: '.'
+    decimalChar: ','    

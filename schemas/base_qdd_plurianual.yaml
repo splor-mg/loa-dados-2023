@@ -57,12 +57,20 @@ fields:
   - name: VALOR (R$) 2023
     title: vl_loa_desp_ano0
     type: number
+    groupChar: '.'
+    decimalChar: ','
   - name: VALOR (R$) 2024
     title: vl_loa_desp_ano1    
     type: number
+    groupChar: '.'
+    decimalChar: ','
   - name: VALOR (R$) 2025
     title: vl_loa_desp_ano2
     type: number
+    groupChar: '.'
+    decimalChar: ','
   - name: VALOR (R$) 2026
     title: vl_loa_desp_ano3
     type: number
+    groupChar: '.'
+    decimalChar: ','

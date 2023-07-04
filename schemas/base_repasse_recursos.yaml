@@ -16,4 +16,6 @@ fields:
   - name: IAG
     type: integer
   - name: Valor Transferido (R$)
-    type: string
+    type: number
+    groupChar: '.'
+    decimalChar: ','

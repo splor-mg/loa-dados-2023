@@ -45,13 +45,19 @@ fields:
     type: string
   - name: VALOR UO (R$)
     title: vl_loa_rec_uo
-    type: string
+    type: number
+    groupChar: '.'
+    decimalChar: ','        
   - name: VALOR SCPPO (R$)
     title: vl_loa_rec_scppo
-    type: string
+    type: number
+    groupChar: '.'
+    decimalChar: ','        
   - name: VALOR FINAL (R$)
     title: vl_loa_rec
-    type: string
+    type: number
+    groupChar: '.'
+    decimalChar: ','        
   - name: ANO
     title: ano
     type: integer
