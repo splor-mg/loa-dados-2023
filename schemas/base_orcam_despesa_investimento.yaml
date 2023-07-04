@@ -34,10 +34,18 @@ fields:
   - name: Natureza
     type: string
   - name: Valor (R$) 2023
-    type: string
+    type: number
+    groupChar: '.'
+    decimalChar: ','    
   - name: Valor (R$) 2024
-    type: string
+    type: number
+    groupChar: '.'
+    decimalChar: ','    
   - name: Valor (R$) 2025
-    type: string
+    type: number
+    groupChar: '.'
+    decimalChar: ','    
   - name: Valor (R$) 2026
-    type: string
+    type: number
+    groupChar: '.'
+    decimalChar: ','    

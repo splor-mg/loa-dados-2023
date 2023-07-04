@@ -20,10 +20,16 @@ fields:
   - name: RECEITA
     type: string
   - name: VALOR UO (R$)
-    type: string
+    type: number
+    groupChar: '.'
+    decimalChar: ','
   - name: VALOR SCPPO (R$)
-    type: string
+    type: number
+    groupChar: '.'
+    decimalChar: ','
   - name: VALOR FINAL (R$)
-    type: string
+    type: number
+    groupChar: '.'
+    decimalChar: ','
   - name: ANO
     type: integer

@@ -32,18 +32,34 @@ fields:
   - name: MUNICÍPIO
     type: string
   - name: VALOR TESOURO 2023 (R$)
-    type: string
+    type: number
+    groupChar: '.'
+    decimalChar: ','    
   - name: VALOR OUTROS 2023 (R$)
-    type: string
+    type: number
+    groupChar: '.'
+    decimalChar: ','    
   - name: VALOR TESOURO 2024 (R$)
-    type: string
+    type: number
+    groupChar: '.'
+    decimalChar: ','    
   - name: VALOR OUTROS 2024 (R$)
-    type: string
+    type: number
+    groupChar: '.'
+    decimalChar: ','    
   - name: VALOR TESOURO 2025 (R$)
-    type: string
+    type: number
+    groupChar: '.'
+    decimalChar: ','    
   - name: VALOR OUTROS 2025 (R$)
-    type: string
+    type: number
+    groupChar: '.'
+    decimalChar: ','    
   - name: VALOR TESOURO 2026 (R$)
-    type: string
+    type: number
+    groupChar: '.'
+    decimalChar: ','    
   - name: VALOR OUTROS 2026 (R$)
-    type: string
+    type: number
+    groupChar: '.'
+    decimalChar: ','    

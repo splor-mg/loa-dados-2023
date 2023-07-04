@@ -59,13 +59,19 @@ fields:
     type: integer
   - name: VALOR UO (R$)
     title: vl_loa_desp_uo
-    type: string
+    type: number
+    groupChar: '.'
+    decimalChar: ','
   - name: VALOR SCPPO (R$)
     title: vl_loa_desp_scppo
-    type: string
+    type: number
+    groupChar: '.'
+    decimalChar: ','
   - name: VALOR FINAL (R$)
     title: vl_loa_desp
-    type: string
+    type: number
+    groupChar: '.'
+    decimalChar: ','
   - name: IAG
     title: iag_cod
     type: integer
